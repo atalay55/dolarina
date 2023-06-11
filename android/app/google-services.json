@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231371181437",
+    "project_id": "dolarina-f08fd",
+    "storage_bucket": "dolarina-f08fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231371181437:android:7442b16716176d7e615014",
+        "android_client_info": {
+          "package_name": "com.example.dolarina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVFq3kpiW4uGaKmd29gpNUb1gRSaWOJMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
